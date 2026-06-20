@@ -2,7 +2,7 @@
 
 ## Dataset
 
-This project uses the Online Retail dataset.
+This project uses the jeopardy dataset.
 
 Download:
 - UCI Machine Learning Repository:
