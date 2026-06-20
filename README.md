@@ -8,4 +8,4 @@ Download:
 - UCI Machine Learning Repository:
 https://www.kaggle.com/datasets/tunguz/200000-jeopardy-questions
 
-After downloading, place Online Retail.xlsx in the data/ directory.
+After downloading, place the dataset file in the data/ directory.
